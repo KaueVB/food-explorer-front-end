@@ -1,4 +1,4 @@
-<div align="center">
+
  <h1>Food Explorer - FRONTEND</h1>
 
 Este é o resultado do desafio final do Explorer, o Food Explorer.
@@ -39,4 +39,3 @@ npm i
 # Rode a aplicação
 npm run dev
 ```
-</div>
